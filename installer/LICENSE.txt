@@ -1,0 +1,15 @@
+A-Star Student Planner - Educational Use Notice
+
+This software is a university study project.
+It is shared for learning and demonstration only.
+
+By installing or using this software, you agree:
+
+1. This is not a production or official institutional system.
+2. This software is not legal, medical, financial, or official academic advice.
+3. You use it at your own risk.
+4. The authors provide it "as is" without warranty.
+5. The authors are not liable for any loss, damages, or missed deadlines from use of this software.
+6. You may stop using and uninstall it at any time.
+
+If you do not agree, cancel setup.

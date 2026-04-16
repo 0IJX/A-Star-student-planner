@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pfx
+*.p12
+*.pem
+*.key
+build/
+dist/
+exports/

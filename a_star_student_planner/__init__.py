@@ -1,0 +1,2 @@
+"""A* Student Planner package."""
+
